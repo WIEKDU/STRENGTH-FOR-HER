@@ -2725,9 +2725,7 @@ margin-right:50px;
 	text-transform: uppercase;
 	border-radius: 6px;
 	display: inline-block;
-	transition: all 0.3s ease 0s;
-                width:300px;
-                height:62px;
+	
 font-family: 'Lato', sans-serif;
 }
 .exam_e:hover {
